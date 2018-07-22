@@ -1,0 +1,43 @@
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.addrecord.resources
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\mashhood\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.staff.resources
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.addrecord.resources
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.staff.resources
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stdrecord.resources
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.tstaff.resources
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Adminform.resources
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.nontstaf.resources
+C:\Users\Mashhood\Documents\Visual Studio 2012\Projects\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mycon.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.addrecord.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Adminform.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mycon.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.nontstaf.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.staff.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.stdrecord.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.tstaff.resources
+C:\Users\Mashhood\Desktop\Mashhood\School Management System\School management S\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
